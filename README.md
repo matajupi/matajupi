@@ -2,7 +2,7 @@
 
 - I am a student of NIT Kurume College.
 - I like programming very much.
-- I am learning program every day to become a highly skilled engineer.
+- I am learning programming every day to become a highly skilled engineer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matajupi&label=Profile%20views&color=0e75b6&style=flat" alt="matajupi" /> </p>
 
