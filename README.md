@@ -1,6 +1,7 @@
 <h1 align="center">Hello! I'm Kosuke Futamata</h1>
-<h3 align="center">Student of NIT Kurume College.</h3>
-
+-  I am a student of NIT Kurume College.
+-  I like programming very much.
+-  I am wearing skills every day to become a great engineer.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matajupi&label=Profile%20views&color=0e75b6&style=flat" alt="matajupi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matajupi" alt="matajupi" /></a> </p>
