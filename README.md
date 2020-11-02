@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kosuke</h1>
+<h1 align="center">Hello! I'm Kosuke Futamata</h1>
 <h3 align="center">Student of NIT Kurume College.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matajupi&label=Profile%20views&color=0e75b6&style=flat" alt="matajupi" /> </p>
