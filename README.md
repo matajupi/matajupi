@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Kosuke Futamata:octocat:</h1>
+<h1 align="center">Hello. I'm Kosuke Futamata:octocat:</h1>
 
 - I am a student of National Institute of Technology, Kurume College.
 - I like programming very much.
