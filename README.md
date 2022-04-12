@@ -1,6 +1,6 @@
 <h1 align="center">Hello. I'm Kosuke Futamata:octocat:</h1>
 
-- I am a student of National Institute of Technology, Kurume College(Department of Electrical and Electronic Engineering).
+- I am a student of National Institute of Technology, Kurume College (Department of Electrical and Electronic Engineering).
 - I like programming very much.
 - I am learning programming every day to become a highly skilled engineer.
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/matamatajupiter" target="blank"><img src="https://img.shields.io/twitter/follow/matamatajupiter?logo=twitter&style=for-the-badge" alt="matamatajupiter" /></a> </p>
 
-- 🌱 I’m currently learning **Security, Design patterns, etc...**
+- 🌱 I’m currently learning **Virtualization technology, Program theory, etc...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
