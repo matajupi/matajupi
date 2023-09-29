@@ -1,6 +1,5 @@
 <h1 align="center">Hello. I'm Kosuke Futamata:octocat:</h1>
 
-- I am a student of National Institute of Technology, Kurume College.
 - I'm interested in theoretical computer science.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matajupi&label=Profile%20views&color=0e75b6&style=flat" alt="matajupi" /> </p>
