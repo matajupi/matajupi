@@ -8,8 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/matamatajupiter" target="blank"><img src="https://img.shields.io/twitter/follow/matamatajupiter?logo=twitter&style=for-the-badge" alt="matamatajupiter" /></a> </p>
 
-- 🌱 I’m currently learning **Program semantics, etc...**
-- Also, I'm currently busy with some programming contests.
+- 🌱 I'm having fun reinventing the wheel.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
