@@ -1,4 +1,4 @@
-<h1 align="center">Hello. I'm Kosuke Futamata:octocat:</h1>
+<h1 align="center">Hello. I'm Kosuke.F</h1>
 
 - I'm interested in theoretical computer science.
 
